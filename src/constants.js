@@ -1,0 +1,16 @@
+ const API_AI_TOKEN =  "89f307c87ef54e26bd027c4e4d2091b3";
+ const FACEBOOK_ACCESS_TOKEN = "EAAURGZBwt2moBAAedHjDLIcy6PCZBFaB1MWzesk85Ad1H4mu7eURQ3cdtDXzRZCzyX4uBmpLKZBQPu91Awn1JgBOUZBABoyWzZB6IIbAFcwpsk25jv4VbjqWFhRkgNw41y7F6rOfkpLZAuPcZCWq0nUZBz5fsCQWGZBcsnjsZAsWZAWoZCr6SEf5ZBDvmL";
+
+ const ACTION_FETCH_USERNAME = 'fetchusername';
+ const ACTION_FETCH_PASSWORD= 'fetchpassword';
+ const ACTION_FETCH_EMAIL = 'fetchemail';
+ const ACTION_FETCH_DOB = 'fetchDOB';
+
+ module.exports = {
+        API_AI_TOKEN,
+        FACEBOOK_ACCESS_TOKEN,
+        ACTION_FETCH_USERNAME,
+        ACTION_FETCH_PASSWORD,
+        ACTION_FETCH_EMAIL,
+        ACTION_FETCH_DOB
+ };
